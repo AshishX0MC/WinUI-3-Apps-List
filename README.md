@@ -236,6 +236,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 Last 20 apps that were recently added to list!
 
+- `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [IconFlow](https://github.com/mishzx/IconFlow) <sup>`FOSS`</sup>
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
@@ -255,7 +256,6 @@ Last 20 apps that were recently added to list!
 - `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) <sup>`FOSS`</sup>
 - `WDA` [Weather - WidBar Widget](https://apps.microsoft.com/detail/9n4cs86q7nv2)
 - `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt)
-- `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -685,6 +685,7 @@ Last 20 apps that were recently added to list!
 - `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
 - `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
+- `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
 - `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 
