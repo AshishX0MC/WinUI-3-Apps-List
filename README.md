@@ -236,6 +236,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 Last 20 apps that were recently added to list!
 
+- `WDM` [Hatch](https://github.com/fbtwitter/hatch) <sup>`FOSS`</sup>
 - `WDM` [IconFlow](https://github.com/mishzx/IconFlow) <sup>`FOSS`</sup>
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
@@ -255,7 +256,6 @@ Last 20 apps that were recently added to list!
 - `WD` [Task Scheduler Studio](https://github.com/MarkHopper24/Task-Scheduler-Studio) <sup>`FOSS`</sup>
 - `WDA` [Weather - WidBar Widget](https://apps.microsoft.com/detail/9n4cs86q7nv2)
 - `WD` [Web Dive](https://apps.microsoft.com/detail/9n110tcfkblt)
-- `WDM` [WidBar - Widget Taskbar system](https://apps.microsoft.com/detail/9pkldnm83tp9)
 
 <sub>[📑 Table Of Contents](#-table-of-contents)</sub>
 
@@ -780,6 +780,7 @@ Last 20 apps that were recently added to list!
 - `WDM` [Daily ToDo Lists](https://apps.microsoft.com/detail/9pmw2fdm4dld) `💰`
 - `WDM` [DayDayUp](https://github.com/Fangjin98/daydayup) `📆` <sup>`FOSS`</sup>
 - `WDM` [FluentTasks](https://github.com/javierferrersb/FluentTasks) <sup>`FOSS`</sup>
+- `WDM` [Hatch](https://github.com/fbtwitter/hatch) <sup>`FOSS`</sup>
 - `WD` [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558)
 - `WD` [Openza Tasks](https://github.com/openza/tasks) <sup>`FOSS`</sup>
 - `WDM` [Taskie](https://apps.microsoft.com/detail/9n201wbcfj91)
