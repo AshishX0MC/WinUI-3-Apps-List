@@ -237,6 +237,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 Last 20 apps that were recently added to list!
 
 - `WDM` [Hatch: Always-On To-Do](https://github.com/fbtwitter/hatch) <sup>`FOSS`</sup>
+- `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [IconFlow](https://github.com/mishzx/IconFlow) <sup>`FOSS`</sup>
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
 - `WDM` [Fluent Metronome](https://apps.microsoft.com/detail/9pnnnts5jmtp)
@@ -685,6 +686,7 @@ Last 20 apps that were recently added to list!
 - `WDM` [Apple TV](https://apps.microsoft.com/detail/9nm4t8b9jqz1)
 - `WDA` [FluentFin](https://github.com/insomniachi/FluentFin)
 - `WDM` [HyPlayer](https://github.com/HyPlayer/HyPlayer) <sup>`FOSS`</sup>
+- `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [MovTv](https://apps.microsoft.com/detail/9ns64tczr3w9)
 - `WD` [SmoothTube](https://apps.microsoft.com/detail/9p5gngw9n606)
 
