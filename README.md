@@ -236,6 +236,7 @@ Please ensure your app fits the WinUI 3 category and provide a brief description
 
 Last 20 apps that were recently added to list!
 
+- `WDM` [Hatch: Always-On To-Do](https://github.com/fbtwitter/hatch) <sup>`FOSS`</sup>
 - `WDM` [Kinema](https://github.com/kinema-app/kinema)
 - `WDM` [IconFlow](https://github.com/mishzx/IconFlow) <sup>`FOSS`</sup>
 - `WD` [D3D12LookDevPTWinUI](https://github.com/shaderjp/D3D12LookDevPTWinUI3) `📆 Planned` <sup>`FOSS`</sup>
@@ -781,6 +782,7 @@ Last 20 apps that were recently added to list!
 - `WDM` [Daily ToDo Lists](https://apps.microsoft.com/detail/9pmw2fdm4dld) `💰`
 - `WDM` [DayDayUp](https://github.com/Fangjin98/daydayup) `📆` <sup>`FOSS`</sup>
 - `WDM` [FluentTasks](https://github.com/javierferrersb/FluentTasks) <sup>`FOSS`</sup>
+- `WDM` [Hatch: Always-On To-Do](https://github.com/fbtwitter/hatch) <sup>`FOSS`</sup>
 - `WD` [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558)
 - `WD` [Openza Tasks](https://github.com/openza/tasks) <sup>`FOSS`</sup>
 - `WDM` [Taskie](https://apps.microsoft.com/detail/9n201wbcfj91)
