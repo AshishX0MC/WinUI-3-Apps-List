@@ -339,6 +339,7 @@ Last 20 apps that were recently added to list!
 
 - `WDM` `WDA` [Arc Browser](https://arc.net/)
 - `WDM` [Aurora](https://apps.microsoft.com/detail/9mxzldlctfwl)
+- `TAGS` [Dia | Windows 11 Beta](https://www.diabrowser.com/) <sup>`📆`</sup>
 - `WDM` [Firefox-WinUI](https://github.com/Lockframe/Firefox-WinUI) `🎨` <sup>`FOSS`</sup>
 - `WDM` `WDA` [Horizon](https://apps.microsoft.com/detail/9pfs0vxcd5sr) <sup>`FOSS`</sup>
 - `WDA` [Hurl](https://github.com/U-C-S/Hurl) <sup>`FOSS`</sup>
